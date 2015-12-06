@@ -5,7 +5,7 @@
         where: "x" is one or more digits;
         "(OP)" - one of the next operations "+" "-" "/" "*" "%":
         "e" or "E" - exponential representation of the number.
-        Always use a space between numbers and operators WHITESPACE
+        Always use a WHITESPACE between numbers and operators
 */
 
 package calculator;
