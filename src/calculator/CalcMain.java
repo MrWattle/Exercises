@@ -14,6 +14,7 @@ class Reader{
 }
 
 class Data{
+    // +++
 }
 
 class DetermOfOperation{
